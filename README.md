@@ -23,7 +23,7 @@ After Trendyol, I'm hands-on again. In a personal lab ([Derinbay Labs](https://g
 I run AI coding agents to ship small products end to end, and look at them the way a tester would:
 what breaks, what can be trusted, and what still needs a human.
 - [ha-blink-live](https://github.com/Derinbay-Labs/ha-blink-live): Home Assistant integration, accepted into the HACS default store.
-- [stampboard](https://github.com/derinbay/stampboard) · [console-band](https://github.com/Derinbay-Labs/console-band): tools for working with GitHub Actions and Claude Code.
+- [stampboard](https://github.com/Derinbay-Labs/stampboard) · [console-band](https://github.com/Derinbay-Labs/console-band): tools for working with GitHub Actions and Claude Code.
 - Writing: [A system that builds software on its own: a five-week list of mistakes](https://derinbay.com/en/posts/autonomous-software-five-weeks/)
 
 ### Toolbox
